@@ -1,0 +1,16 @@
+9bf63ab9-fc5b-4d62-b6da-84df81e8b0ed:1697757781887:0:S:set cloudconfig /C:\\Users\\servi\\Documents\\Wallet_J59UENH6JM6D5H8B.zip
+0d8ef050-c8cb-4d57-8bcc-9141ce878609:1697757866191:0:S:conn WKSP_ADMCI@j59uenh6jm6d5h8b_high
+ea1d7326-b674-4d8e-b28e-006b606c603d:1697757998012:0:S:@../demo_scripts/create_table.sql
+75c48fe3-26e5-4e6f-bae3-846de54e1ff5:1697758199354:0:S:@../demo_scripts/create_table.sql
+6ddbcecb-b19d-4d3c-8b0f-5997b67f1a9d:1697758208786:0:F:../demo_scripts/create_table.sql
+9a54ca64-8ce0-4fab-999c-e50ad81ab9c7:1697758242080:0:F:../demo_scripts/create_table.sql
+8eea9f18-e9ed-403f-a5e1-390a47844d87:1697758247296:0:S:@../demo_scripts/create_table.sql
+f572ab63-44ea-4fec-825e-a7b96979636c:1697758267785:0:S:@../demo_scripts/create_table.sql
+c8e9efbb-048f-492b-9037-bd3894b75bef:1697758319862:0:S:@../demo_scripts/create_table.sql
+665b742e-eb12-4a06-8b42-be69c7bdffb9:1697758443917:0:S:@../demo_scripts/create_table.sql
+80ec5f08-b364-486a-841b-d04d8f10b382:1697758671781:0:S:@create_table.sql
+5b9aae1d-4a20-4006-a3ed-f6ce5a5a67c5:1697758702179:0:S:@../demo_scripts/insert_data.sql
+5bb034ce-7434-466f-bcba-cb0eba03e3c6:1697758753198:0:S:@insert_data.sql
+0aad0322-9c06-475b-b86e-bc27ca9e8d7a:1697758764798:0:S:@create_logic.sql
+5fda6968-ca57-4662-a502-7a216bdcc622:1697758785657:0:F:SQL> lb genschema -split
+019e2b4a-c325-4488-866e-fb99dd7baf73:1697758793491:0:S:lb genschema -split
